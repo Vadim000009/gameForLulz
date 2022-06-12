@@ -8,6 +8,8 @@ public class Unit {
     private Byte defensePoints;
     private Byte healthPoints;
 
+    public Unit(){}
+
     /**
      * Конструктор Юнит
      * @param unitId - Id Юнита в БД

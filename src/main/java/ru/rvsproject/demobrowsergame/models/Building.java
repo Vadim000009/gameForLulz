@@ -7,6 +7,8 @@ public class Building {
     private Integer level;
     private Integer people;
 
+    public Building(){}
+
     /**
      * Конструктор класса building
      * @param buildingId - id Строения в БД
